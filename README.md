@@ -1,5 +1,10 @@
 # 📚 HPFN NLP Prompt Library – v1.0
 
+![Version](https://img.shields.io/badge/version-v1.0-blue)
+![License](https://img.shields.io/badge/license-HPFN_Private-green)
+![Model](https://img.shields.io/badge/Model-Compatible-GPT_3.5_/_4-orange)
+![Status](https://img.shields.io/badge/tests-Validated_%2F_Reviewed-success)
+
 This prompt library contains structured natural language queries for training, validating, and benchmarking NLP-powered query tools using Python (Pandas) and tabular datasets.
 
 ## 📁 Files Included
