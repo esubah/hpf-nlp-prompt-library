@@ -5,6 +5,23 @@
 ![Model](https://img.shields.io/badge/Model-Compatible-GPT_3.5_/_4-orange)
 ![Status](https://img.shields.io/badge/tests-Validated_%2F_Reviewed-success)
 
+📌 About this Project
+HPFN NLP Prompt Library is a general-purpose, versioned library of natural language prompts designed for evaluating and training AI systems that convert user queries into structured data operations (e.g., Pandas code).
+
+This library supports:
+
+✅ Prompt testing and benchmarking (Pass/Fail/Inconclusive)
+
+🎯 LLM fine-tuning and retrieval workflows
+
+📊 Structured output validation (DataFrame, value, plot)
+
+🔁 Continuous regression tracking and version control
+
+🚀 Integration with Streamlit, Python, and API-based tools
+
+Whether you're validating a data-aware LLM, training a chatbot to handle complex queries, or benchmarking multi-turn interactions, this library provides the scaffolding to build, test, and scale responsibly.
+
 This prompt library contains structured natural language queries for training, validating, and benchmarking NLP-powered query tools using Python (Pandas) and tabular datasets.
 
 ## 📁 Files Included
